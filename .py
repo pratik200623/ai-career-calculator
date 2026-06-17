@@ -1,4 +1,4 @@
-# ai career salery calculator 
+# ai career salery calculator that is not a grate but at strating point this is not small 
  
 print("welcome to ai carear calculator")
 
